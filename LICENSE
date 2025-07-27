@@ -1,0 +1,19 @@
+
+---
+
+### 📒 Notebooks Preview
+
+Here are brief descriptions of the notebooks — I can generate full `.ipynb` or `.py` files if you want:
+
+#### `01_intro_to_python.ipynb`
+```python
+# Variables and data types
+name = "Vivens"
+age = 24
+is_coding = True
+
+# Function
+def greet(user):
+    return f"Hello {user}!"
+
+print(greet(name))
